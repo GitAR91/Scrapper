@@ -1,2 +1,0 @@
-# Scrapper
-Simple autoparts parser
